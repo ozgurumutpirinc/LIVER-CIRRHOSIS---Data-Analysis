@@ -11,3 +11,6 @@ Veri silerek veya yerine başka veri atayarak bu durum düzeltilebilir ancak ver
 Sağlık alanının hassas bir alan olduğunu ve her hastanın kendine özgü semptomlar geliştirebileceğini göz önünde bulundurursak outlier veri temizliğinin yanlış/eksik analiz sonuçlarına yol açabileceği de düşünülmelidir.
 
 Yazdığım kodlarla ilgili teknik bilgiler ve grafik yorumlarım kod dosyasındaki yorum hücrelerinde yer almaktadır.
+
+Projemde kullandığım veri setinin linki:
+https://www.kaggle.com/datasets/aadarshvelu/liver-cirrhosis-stage-classification/data
